@@ -1,0 +1,10 @@
+.venv_book
+.vscode
+__pycache__
+.DS_Store
+.pytest_cache
+
+*/datasets/*
+!*/datasets/download.sh
+*/tmp
+pretrain_bert/

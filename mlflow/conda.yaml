@@ -1,0 +1,10 @@
+name: allennlp-mlflow
+channels:
+  - defaults
+  - anaconda
+dependencies:
+  - python==3.7
+  - pip:
+    - allennlp==0.9.0
+    - mlflow>=1.0
+    - cloudpickle==1.2.2

@@ -1,0 +1,7 @@
+{
+    "columns": ["sentence"],
+    "data":[
+        ["Jim bought 300 shares of Acme Corp. in 2006."],
+        ["They marched from the Houses of Parliament to a rally in Hyde Park."]
+    ]
+}

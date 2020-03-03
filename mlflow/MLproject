@@ -1,0 +1,9 @@
+name: allennlp-mlflow
+
+conda_env: conda.yaml
+
+entry_points:
+  train:
+    parameters:
+        config: path
+    command: "PYTHONPATH=`pwd` python scripts/train.py --include-package src {config}"
