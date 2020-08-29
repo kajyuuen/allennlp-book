@@ -1,6 +1,6 @@
 # AllenNLP入門
 
-本リポジトリはAnnanAIによる技術同人誌「AllenNLP入門」のソースコード置き場です。[BOOTH](https://annan-ai.booth.pm/items/1881126)にて販売中です。
+本リポジトリはAnnanAIによる「AllenNLP入門」のソースコード置き場です。[Amazon](https://www.amazon.co.jp/dp/B08GLG39DF/ref=cm_sw_em_r_mt_dp_2pGsFbYJDFYJT)または[BOOTH](https://annan-ai.booth.pm/items/1881126)にて販売中です。
 
 <p align="center">
   <img src="./allennlp-book.jpeg" width="300" />
